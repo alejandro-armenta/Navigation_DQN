@@ -8,7 +8,7 @@ The model consists of 2 hidden layers with RELU activation functions 1 input lay
 
 The optimizer used is ADAM for the local QNetwork, every batch update the target QNetwork is updated with new Q parameters. (fixed Q targets)
 
-Hyperparameters:
+## Hyperparameters:
 
 - BUFFER_SIZE = int(1e5)  , experience replay buffer size
 - BATCH_SIZE = 64         , learning batch size
