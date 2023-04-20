@@ -14,8 +14,8 @@ Hyperparameters:
 - BATCH_SIZE = 64         , learning batch size
 - GAMMA = 0.99            , reward discount 
 - TAU = 1e-3              , linear interpolation parameter for updating target's weights.
-- LR = 5e-4               # learning rate 
-- UPDATE_EVERY = 4        # how often to update the network
+- LR = 5e-4               , learning rate 
+- UPDATE_EVERY = 4        , how often to update the network
 
 
 
