@@ -21,3 +21,8 @@ The optimizer used is ADAM for the local QNetwork, every batch update the target
 
 <img width="487" alt="mean_scores" src="https://user-images.githubusercontent.com/81542828/233507575-fe5ad059-2e1c-46d1-802d-96291924a6b1.png">
 
+## Ideas for future work:
+
+I can try adding prioritized experience replay to learn more from more important states, rather than random sampling the SARS tuples.
+
+Probably learning from pixels could be a better way to go since the agent can abstract more information than the 37 variables this model has.
