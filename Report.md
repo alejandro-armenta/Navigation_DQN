@@ -10,7 +10,12 @@ The optimizer used is ADAM for the local QNetwork, every batch update the target
 
 Hyperparameters:
 
-- 
+- BUFFER_SIZE = int(1e5)  , experience replay buffer size
+- BATCH_SIZE = 64         , learning batch size
+- GAMMA = 0.99            , reward discount 
+- TAU = 1e-3              , linear interpolation parameter for updating target's weights.
+- LR = 5e-4               # learning rate 
+- UPDATE_EVERY = 4        # how often to update the network
 
 
 
