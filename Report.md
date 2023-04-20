@@ -17,7 +17,7 @@ The optimizer used is ADAM for the local QNetwork, every batch update the target
 - LR = 5e-4               , learning rate 
 - UPDATE_EVERY = 4        , how often to update the network
 
+## Plot of rewards:
 
-
-
+<img width="487" alt="mean_scores" src="https://user-images.githubusercontent.com/81542828/233507575-fe5ad059-2e1c-46d1-802d-96291924a6b1.png">
 
