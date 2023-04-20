@@ -8,9 +8,21 @@
  
  ## Action space
  
+ 4 discrete actions:
+ - Move forward
+ - Move backward
+ - Turn left
+ - Turn right
  
- 
+ ## Rewards
  
  The yellow bananas give +1 reward and the blue bananas give -1 reward.
+ 
+ ## Environment solution
+ 
+ The agent must get an average score of +13 over 100 consecutive episodes for the environment to be considered solved.
+ 
+ 
+ 
  
  
