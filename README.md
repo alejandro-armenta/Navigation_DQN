@@ -23,8 +23,8 @@
  The agent must get an average score of +13 over 100 consecutive episodes for the environment to be considered solved.
  
  
- *I used Udacity's workspace so I don't know which dependencies are needed!
- I used Udacity's workspace and I followed its instructions to complete the project.*
+ *I used Udacity's workspace so I don't know which dependencies are needed!*
+ *I used Udacity's workspace and I followed its instructions to complete the project.*
  
  
  
