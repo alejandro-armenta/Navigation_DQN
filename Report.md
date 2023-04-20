@@ -1,6 +1,6 @@
 # Report
 
-The learning algorith is a DQN a Deep Q Network that uses experience replay with fixed Q targets.
+The learning algorithm is a DQN a Deep Q Network that uses experience replay with fixed Q targets.
 
 The experience replay shuffles SARS tuples to remove correlation across consecutive states.
 
