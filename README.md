@@ -1,5 +1,7 @@
 # Navigation_DQN
  
+ ![banana](https://user-images.githubusercontent.com/81542828/233695617-2b259e67-2165-4a1a-bda9-9974afc78a92.gif)
+ 
  This is a DQN (Deep Q Network) that trains an agent to collect yellow bananas.
  
  ## State space
