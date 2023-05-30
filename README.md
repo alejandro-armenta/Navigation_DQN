@@ -1,6 +1,6 @@
 # Navigation_DQN
  
- This is a DQN (Deep Q Network) that trains an agent to collect yellow bananas.
+ This is a DQN (Deep Q Network) that trains an agent to collect yellow bananas in Unity Environment.
  
  ## State space
  
