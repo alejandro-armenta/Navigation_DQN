@@ -2,6 +2,10 @@
  
  This is a DQN (Deep Q Network) that trains an agent to collect yellow bananas in Unity Environment.
  
+ This is an example of the environment:
+ 
+ ![banana](https://github.com/alejandro-armenta/Navigation_DQN/assets/81542828/d5333d2c-12d2-4d8e-9b55-6604d9903b8a)
+ 
  ## State space
  
  The state space has 37 dimensions with the agent's velocity and agent's perception around forward direction.
